@@ -2,6 +2,10 @@
 
 - 🔭 I’m currently working on GitHub Foundations Training
 
+
+### 🧰 Tools & Technologies
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-b
+
 <!--
 **kamakiJr/kamakiJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
