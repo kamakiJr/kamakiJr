@@ -4,7 +4,8 @@
 
 
 ### 🧰 Tools & Technologies
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-b
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
 
 <!--
 **kamakiJr/kamakiJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
