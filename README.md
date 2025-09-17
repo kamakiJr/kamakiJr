@@ -20,6 +20,9 @@
 ![HP](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
 ![Lenovo](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
 
+### 🎵 Music Scoring
+![Musescore](https://img.shields.io/badge/MuseScore-1A70B8?style=for-the-badge&logo=MuseScore&logoColor=white)
+
 <!--
 **kamakiJr/kamakiJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
