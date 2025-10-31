@@ -2,10 +2,11 @@
 
 - 🔭 I’m currently working on GitHub Foundations Training
 
-### 🧑‍💻 Languages
+### 🧑‍💻 Languages & Data Interchange
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html)
+[![XML](https://img.shields.io/badge/XML-005FAD.svg?style=for-the-badge&logo=XML&logoColor=white)](https://www.w3.org/XML/)
 
 ### 🧰 Tools & Technologies
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
