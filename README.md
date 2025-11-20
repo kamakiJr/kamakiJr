@@ -40,3 +40,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Some Numbers
+<a href="https://github.com/mistwire/mistwire">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamakijr&show_icons=true&theme=cobalt" />
+</a>
