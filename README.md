@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 -->
 
 ## Some Numbers
-<a href="https://github.com/mistwire/mistwire">
+<a href="https://github.com/kamakiJr/kamakiJr">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamakijr&show_icons=true&theme=cobalt" />
+</a>
+<a href="https://github.com/kamakiJr/kamakiJr">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamakijr&show_icons=true&theme=cobalt&hide=javascript,css" />
 </a>
