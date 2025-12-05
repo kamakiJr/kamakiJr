@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on GitHub Foundations Training
+- 🔭 I just completed the GitHub Foundations Certification
+- 🔭 Next up: GitHub Copilot Certification 
 
 ### 🧑‍💻 Languages
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
